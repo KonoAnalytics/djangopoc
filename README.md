@@ -9,4 +9,4 @@ pip install --user django-polls/dist/django-polls-0.1.tar.gz
 ```
 python toplevel/manage.py runserver
 ```  
-### 4. navigate to http://127.0.0.1/admin or http://127.0.0.1/polls  
+### 4. navigate to http://127.0.0.1:8000/admin or http://127.0.0.1:8000/polls  
