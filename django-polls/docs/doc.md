@@ -1,0 +1,11 @@
+# Polls Django Application  
+This application was developed by following the standard Django tutorial at:  
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial01/  
+https://docs.djangoproject.com/en/1.10/intro/tutorial02/  
+https://docs.djangoproject.com/en/1.10/intro/tutorial03/  
+https://docs.djangoproject.com/en/1.10/intro/tutorial04/  
+https://docs.djangoproject.com/en/1.10/intro/tutorial05/  
+https://docs.djangoproject.com/en/1.10/intro/tutorial06/  
+https://docs.djangoproject.com/en/1.10/intro/tutorial07/  
+https://docs.djangoproject.com/en/1.10/intro/reusable-apps/  
